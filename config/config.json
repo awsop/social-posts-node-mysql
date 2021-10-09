@@ -1,0 +1,6 @@
+{
+  "host": "wordpress.cs6royptlt8t.us-west-2.rds.amazonaws.com",
+  "user": "wordpress",
+  "database": "posts",
+  "password": "wordpress123"
+}
