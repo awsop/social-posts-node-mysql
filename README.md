@@ -2,6 +2,8 @@
 
 # Login System
 
+WORKED IN BEANATALK ------------- REMOVE nodemon ---- package.json
+
 ## Angular, Node, and MySQL
 
 1. Navigate to backend/config/config.json and change the password to your MySQL password.
